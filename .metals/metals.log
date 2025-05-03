@@ -77,3 +77,8 @@ WARNING: Unmatched cancel notification for request id 1
 2025.05.03 23:55:27 INFO  no build target found for C:\LUT study\third year\HK2\Scala\MyProject\myproject\src\main\scala\project.scala. Using presentation compiler with project's scala-library version: 3.3.5
 May 03, 2025 11:55:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2025.05.03 23:55:43 WARN  no build target for: C:\LUT study\third year\HK2\Scala\MyProject\myproject\src\main\scala\project.scala
+2025.05.03 23:55:43 INFO  no build target found for C:\LUT study\third year\HK2\Scala\MyProject\myproject\src\main\scala\project.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.03 23:55:43 INFO  no build target found for C:\LUT study\third year\HK2\Scala\MyProject\myproject\src\main\scala\project.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.03 23:55:43 INFO  no build target found for C:\LUT study\third year\HK2\Scala\MyProject\myproject\src\main\scala\project.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.03 23:55:43 INFO  no build target found for C:\LUT study\third year\HK2\Scala\MyProject\myproject\src\main\scala\project.scala. Using presentation compiler with project's scala-library version: 3.3.5
