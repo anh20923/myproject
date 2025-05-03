@@ -64,3 +64,16 @@ WARNING: Unmatched cancel notification for request id 26
 2025.05.03 23:53:55 INFO  Shutting down server
 2025.05.03 23:53:55 INFO  shutting down Metals
 2025.05.03 23:53:55 INFO  Exiting server
+2025.05.03 23:55:06 INFO  Started: Metals version 1.5.2 in folders 'C:\LUT study\third year\HK2\Scala\MyProject\myproject' for client Visual Studio Code 1.99.3.
+2025.05.03 23:55:08 INFO  restarted 0 presentation compilers
+2025.05.03 23:55:22 INFO  no build target found for C:\LUT study\third year\HK2\Scala\MyProject\myproject\src\main\scala\project.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.03 23:55:22 WARN  no build target for: C:\LUT study\third year\HK2\Scala\MyProject\myproject\src\main\scala\project.scala
+2025.05.03 23:55:22 INFO  no build target found for C:\LUT study\third year\HK2\Scala\MyProject\myproject\src\main\scala\project.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.03 23:55:22 INFO  no build target found for C:\LUT study\third year\HK2\Scala\MyProject\myproject\src\main\scala\project.scala. Using presentation compiler with project's scala-library version: 3.3.5
+May 03, 2025 11:55:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2025.05.03 23:55:22 INFO  no build target found for C:\LUT study\third year\HK2\Scala\MyProject\myproject\src\main\scala\project.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.03 23:55:25 INFO  time: code lens generation in 2.49s
+2025.05.03 23:55:27 INFO  no build target found for C:\LUT study\third year\HK2\Scala\MyProject\myproject\src\main\scala\project.scala. Using presentation compiler with project's scala-library version: 3.3.5
+May 03, 2025 11:55:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
