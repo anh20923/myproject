@@ -1,3 +1,5 @@
+// Anh Vainionpää-1001477
+
 import java.io._
 import scala.io.Source
 import java.io.FileReader
@@ -112,7 +114,7 @@ object project extends App{
     writer.close()
     filedata.close()
   }
-  def Task3_1():Unit={
+  def Task3_1(): Unit = {
     val filename = dataFile.value
     try {
       val filedata = Source.fromFile(filename)

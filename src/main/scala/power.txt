@@ -1,3 +1,0 @@
-Solar_panels : 1
-Wind_turbines : 1
-Hydropower : 1
