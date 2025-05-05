@@ -6,6 +6,7 @@ import java.io.IOException
 import scala.util.Sorting
 import scala.util.{Try, Success, Failure}
 import java.nio.file.Paths
+import scala.util.control.Breaks._
 object dataFile{
   val filename: String = Paths.get("src", "main", "scala", "power.txt").toString()
   val value: String =  "data-information.txt"
@@ -28,8 +29,6 @@ object project extends App{
     }
     filedata.close()
   }
-
-  import scala.util.control.Breaks._
 
   def Task1_2(): Unit = {
     val filename = dataFile.filename
