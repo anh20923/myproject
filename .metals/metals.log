@@ -93,3 +93,22 @@ INFO: Unsupported notification method: $/setTrace
 2025.05.03 23:58:33 INFO  Shutting down server
 2025.05.03 23:58:33 INFO  shutting down Metals
 2025.05.03 23:58:33 INFO  Exiting server
+2025.05.05 12:30:29 INFO  Started: Metals version 1.5.2 in folders 'C:\LUT study\third year\HK2\Scala\MyProject\myproject' for client Visual Studio Code 1.99.3.
+2025.05.05 12:30:29 INFO  no build target found for C:\LUT study\third year\HK2\Scala\MyProject\myproject\src\main\scala\project.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.05 12:30:33 INFO  no build target found for C:\LUT study\third year\HK2\Scala\MyProject\myproject\src\main\scala\project.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.05 12:30:33 INFO  no build target found for C:\LUT study\third year\HK2\Scala\MyProject\myproject\src\main\scala\project.scala. Using presentation compiler with project's scala-library version: 3.3.5
+May 05, 2025 12:30:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+2025.05.05 12:30:33 INFO  no build target found for C:\LUT study\third year\HK2\Scala\MyProject\myproject\src\main\scala\project.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.05 12:30:33 INFO  no build target found for C:\LUT study\third year\HK2\Scala\MyProject\myproject\src\main\scala\project.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.05 12:30:33 INFO  no build target found for C:\LUT study\third year\HK2\Scala\MyProject\myproject\src\main\scala\project.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.05 12:31:17 INFO  no build target found for C:\LUT study\third year\HK2\Scala\MyProject\myproject\src\main\scala\project.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.05 12:31:19 INFO  no build target found for C:\LUT study\third year\HK2\Scala\MyProject\myproject\src\main\scala\project.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.05 12:33:11 INFO  no build target found for C:\LUT study\third year\HK2\Scala\MyProject\myproject\src\main\scala\project.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.05 12:33:11 INFO  no build target found for C:\LUT study\third year\HK2\Scala\MyProject\myproject\src\main\scala\project.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.05 12:33:11 INFO  no build target found for C:\LUT study\third year\HK2\Scala\MyProject\myproject\src\main\scala\project.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.05 12:33:11 INFO  no build target found for C:\LUT study\third year\HK2\Scala\MyProject\myproject\src\main\scala\project.scala. Using presentation compiler with project's scala-library version: 3.3.5
+May 05, 2025 12:33:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.05.05 12:33:57 INFO  no build target found for C:\LUT study\third year\HK2\Scala\MyProject\myproject\src\main\scala\project.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.05 12:33:57 INFO  no build target found for C:\LUT study\third year\HK2\Scala\MyProject\myproject\src\main\scala\project.scala. Using presentation compiler with project's scala-library version: 3.3.5
